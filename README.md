@@ -9,6 +9,8 @@ This is the full one page website design of developer landing page made purely w
 
 ## Demo
 
+[video.webm](https://user-images.githubusercontent.com/36806953/180946577-e6fec4ac-d4e6-4c54-b5a8-3534fb810f60.webm)
+
 ## Run Locally
 
 Clone the project
