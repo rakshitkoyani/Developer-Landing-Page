@@ -42,3 +42,5 @@ Go to the project directory
 It takes me around 3 hours to complete me this project.
 
 ## Live link of the project
+
+https://rakshitkoyani.github.io/Developer-Landing-Page/
