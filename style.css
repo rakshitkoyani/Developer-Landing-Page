@@ -32,8 +32,11 @@ nav {
 
 .nav-item {
   color: white;
-  padding: 15px;
+  margin: 15px;
+}
 
+.nav-item:hover {
+  cursor: pointer;
 }
 
 .nav-item-active {
@@ -41,7 +44,6 @@ nav {
   background-color: #fff;
   margin-top: 10px;
   padding: 5px 10px;
-
 }
 
 nav svg {
@@ -71,7 +73,7 @@ div p {
   top: 10%;
   z-index: 2;
   box-shadow: 0px 0px 0px #8a8383;
-  image-sh
+
 }
 
 .header-image:hover {
