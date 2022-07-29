@@ -39,7 +39,7 @@ Go to the project directory
 
 ## Honest Time to finish the project
 
-It takes me around 3 hours to complete me this project.
+It took me around 7 hours to complete me this project.
 
 ## Live link of the project
 
