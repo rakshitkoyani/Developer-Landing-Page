@@ -1,6 +1,6 @@
 # Developer Landing Page [![Developer](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
-This is the full one page website design of developer landing page made purely with HTML and CSS. It contains header,footer and 3 more sections.
+This is the full one page responsive website design of developer landing page made purely with HTML and CSS. It contains header,footer and 3 more sections.
 
 ## 🛠 Technologies Used
 
@@ -10,6 +10,12 @@ This is the full one page website design of developer landing page made purely w
 ## Demo
 
 [video.webm](https://user-images.githubusercontent.com/36806953/180946577-e6fec4ac-d4e6-4c54-b5a8-3534fb810f60.webm)
+
+1. Desktop size
+![output](./screen-shots/desktop.png)
+
+2. mobile size
+![output](./screen-shots/mobile.png)
 
 ## Run Locally
 
